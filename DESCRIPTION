@@ -1,0 +1,11 @@
+Package: PontoFdag
+Type: Package
+Title: parse ontology file for DAG graph and creat DAG network by visNetwork
+Version: 0.1.0
+Author: jiangp
+Maintainer: The package maintainer <18518492163@163.com>
+Description: parse ontology file for DAG graph and creat DAG network by visNetwork
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
